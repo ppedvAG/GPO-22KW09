@@ -14,4 +14,22 @@ Agenda:
     - Gruppen
     - Replikation
     - Installation AD
+- Grundlagen Gruppenrichtlinen
+  - Richtlinien
+  - Einstellungen / Preferences
+  - Filterung
+    - OU
+    - Delegierung
+    - WMI
+- GPO Beispiele
+  - Dateierweiterung einblenden
+  - Netzlaufwerk verbinden
+  - Kachelanordnung Startmenü anpassen
+  - **L**ocal**A**dministrator**P**assword**S**olution
+- GPO Troubleshooting
+  - Gruppenrichtlinienergebnis
+  - Gruppenrichtlinienmodellierung
+  - gpresult
+  - rsop
+
     
